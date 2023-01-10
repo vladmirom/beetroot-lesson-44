@@ -2,11 +2,11 @@ import './Banner.css'
 
 const Banner = () => {
   return (
-     <div className="banner">
+     <section className="banner">
       <div className="container">
-        Full-width banner image
+        <h1 className="banner__title">Full-width banner image</h1>
       </div>
-    </div>
+    </section>
   )
 }
 

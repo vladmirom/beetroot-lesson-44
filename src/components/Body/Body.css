@@ -1,0 +1,9 @@
+/**
+ * Body section styles.
+ */
+
+ .body {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 67px;
+ }

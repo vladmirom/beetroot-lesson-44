@@ -15,7 +15,10 @@
 }
 
 .header__blog-name {
-  text-align: center;
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  line-height: 15px;
+  font-weight: 400;
 }
 
 .container {

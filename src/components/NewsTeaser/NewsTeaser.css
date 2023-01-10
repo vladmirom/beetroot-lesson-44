@@ -1,0 +1,13 @@
+/**
+ * News teaser styles.
+ */
+
+ .news-feed__teaser {
+  width: 100%;
+  height: 110px;
+  background-color: #BDCDF7;
+ }
+
+ .news-feed__teaser + .news-feed__teaser {
+  margin-top: 27px;
+ }
