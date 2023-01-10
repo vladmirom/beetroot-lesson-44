@@ -1,0 +1,24 @@
+/**
+ * Header styles.
+ */
+
+.header {
+  background-color: #D9D9D9;
+  padding: 6px 0 5px 0;
+  margin-bottom: 19px;
+}
+
+.header__flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header__blog-name {
+  text-align: center;
+}
+
+.container {
+  max-width: 96%;
+  margin: 0 auto;
+}
