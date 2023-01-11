@@ -1,4 +1,4 @@
-import './BlogTeaser.css'
+import './BlogTeaser.scss'
 
 const BlogTeaser = () => {
   return <div className="blog-feed__teaser"></div>;

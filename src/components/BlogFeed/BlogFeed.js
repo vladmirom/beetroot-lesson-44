@@ -1,4 +1,4 @@
-import './BlogFeed.css'
+import './BlogFeed.scss'
 
 import BlogTeaser from '../BlogTeaser/BlogTeaser'
 

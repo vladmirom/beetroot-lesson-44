@@ -1,4 +1,4 @@
-import './SocialMediaItem.css'
+import './SocialMediaItem.scss'
 
 const SocialMediaItem = () => {
   return <div className="social-media__item"></div>

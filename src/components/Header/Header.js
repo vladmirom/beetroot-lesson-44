@@ -1,4 +1,4 @@
-import './Header.css'
+import './Header.scss'
 
 import Logo from '../Logo/Logo';
 import SocialMedia from '../SocialMedia/SocialMedia';

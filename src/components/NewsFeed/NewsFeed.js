@@ -1,4 +1,4 @@
-import './NewsFeed.css'
+import './NewsFeed.scss'
 
 import NewsTeaser from '../NewsTeaser/NewsTeaser'
 

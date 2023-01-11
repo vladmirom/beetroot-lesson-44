@@ -1,0 +1,16 @@
+/**
+ * Social media item styles.
+ */
+
+ .social-media {
+  &__item {
+    display: inline-block;
+    width: 46px;
+    height: 37px;
+    background-color: #E7EFD6;
+
+    & + .social-media__item {
+      margin-left: 19px;
+     }
+   }
+ }

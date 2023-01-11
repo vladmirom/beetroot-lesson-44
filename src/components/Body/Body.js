@@ -1,4 +1,4 @@
-import './Body.css'
+import './Body.scss'
 
 import BlogFeed from '../BlogFeed/BlogFeed'
 import NewsFeed from '../NewsFeed/NewsFeed'

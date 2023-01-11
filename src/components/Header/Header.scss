@@ -1,0 +1,22 @@
+/**
+ * Header styles.
+ */
+
+.header {
+  background-color: #D9D9D9;
+  padding: 6px 0 5px 0;
+  margin-bottom: 19px;
+
+  &__flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  &__blog-name {
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    line-height: 15px;
+    font-weight: 400;
+  }
+}

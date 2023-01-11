@@ -1,4 +1,5 @@
 import './App.css';
+import './assets/scss/globals.scss';
 
 import Header from './components/Header/Header'
 import Banner from './components/Banner/Banner'
